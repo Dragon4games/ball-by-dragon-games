@@ -7,6 +7,7 @@ because of that i have not programmed my game to collect any data from the users
 and can be deleted by uninstalling the app
 
 if you find any security vulnerability that has benn inadvertently caused by me feel free to contact my developer e-mail.
+drgngames5@gmail.com
 
 
 
